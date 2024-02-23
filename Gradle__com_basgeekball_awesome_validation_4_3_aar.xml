@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.basgeekball:awesome-validation:4.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Hair-Salon-new-master/caches/transforms-3/57ad6b039f122fa21770b5f3e14e5a70/transformed/jetified-awesome-validation-4.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Hair-Salon-new-master/caches/transforms-3/57ad6b039f122fa21770b5f3e14e5a70/transformed/jetified-awesome-validation-4.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Hair-Salon-new-master/caches/transforms-3/57ad6b039f122fa21770b5f3e14e5a70/transformed/jetified-awesome-validation-4.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Hair-Salon-new-master/caches/modules-2/files-2.1/com.basgeekball/awesome-validation/4.3/3b10076bfefd9708e75de2d6446efacacb09e4e8/awesome-validation-4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Hair-Salon-new-master/caches/modules-2/files-2.1/com.basgeekball/awesome-validation/4.3/734e3a2c2ca305579d128dc7c32a72a1d16bbee3/awesome-validation-4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
